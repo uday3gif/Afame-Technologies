@@ -8,7 +8,7 @@ from sklearn.metrics import classification_report, accuracy_score, confusion_mat
 from sklearn.preprocessing import LabelEncoder
 
 # Load data
-data = pd.read_csv('IRIS Flower (1).csv')
+data = pd.read_csv('IRIS Flower.csv')
 
 # Data preprocessing
 label_encoder = LabelEncoder()
