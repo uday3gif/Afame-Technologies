@@ -8,7 +8,7 @@
  The primary goal of this project is to train a classifier that can predict the species of an Iris flower based on the given physical attributes. This task will help demonstrate the efficacy of classification algorithms in distinguishing between similar species using quantifiable data.
 
  Dataset Description:-
-T he dataset includes 150 entries with the following columns:
+The dataset includes 150 entries with the following columns:
 
  Sepal Length: the length of the sepals (in cm)
  Sepal Width: the width of the sepals (in cm)
